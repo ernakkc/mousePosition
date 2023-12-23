@@ -23,4 +23,8 @@ MousePosition is a simple Python script that displays the current position of th
 
     ```bash
    python mouse_position.py
-   ```   
+   ```
+
+## Example Screenshot
+
+![Screenshot](images/image.png)
